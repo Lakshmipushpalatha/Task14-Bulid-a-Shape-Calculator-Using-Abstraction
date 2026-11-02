@@ -1,8 +1,6 @@
 # Task14-Bulid-a-Shape-Calculator-Using-Abstraction
 java calculation
 
-# Task 14: Shape Calculator Using Abstraction
-
 ## 1. Project Description
 
 The Shape Calculator is a Java application developed using the concept of **Abstraction and Inheritance**.
